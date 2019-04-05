@@ -1,6 +1,4 @@
 [submodule "child"]
 	path = child
 	url = ../submodule-child
-[submodule "region-h"]
-	path = region-h
-	url = https://github.com/klean/region-h
+
