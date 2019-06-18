@@ -1,4 +1,4 @@
 [submodule "child"]
 	path = child
-	url = /palmin/submodule-child
+	url = https://github.com/palmin/submodule-child
 
