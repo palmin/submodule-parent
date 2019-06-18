@@ -1,4 +1,4 @@
 [submodule "child"]
 	path = child
-	url = ../submodule-child
+	url = /palmin/submodule-child
 
