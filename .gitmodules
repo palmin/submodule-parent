@@ -1,1 +1,4 @@
 
+[submodule "submodule-child"]
+	path = submodule-child
+	url = git@github.com:palmin/submodule-child.git
