@@ -2,6 +2,3 @@
 [submodule "submodule-child"]
 	path = submodule-child
 	url = git@github.com:palmin/submodule-child.git
-[submodule "_public/child"]
-	path = _public/child
-	url = https://github.com/palmin/submodule-child/
